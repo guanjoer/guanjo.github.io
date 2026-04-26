@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = "https://guanjoer.github.io/"
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = "GuanJoer Archive"
 theme = "PaperMod"
 [caches]
   [caches.images]
